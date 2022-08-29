@@ -12,6 +12,7 @@ dependencies:
   - pytorch::pytorch
   - pytorch::torchvision
   - pytorch::torchaudio
+  - pre-commit
   - pip:
     - protobuf==3.20.*
     - termcolor==1.1.0
